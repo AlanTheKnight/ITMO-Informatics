@@ -1,3 +1,17 @@
+import re
+
+
+def validate_input(fib_string: str):
+    """Check if input is a valid Fibonacci number.
+
+    A string is considered a valid number if:
+    - It starts with 1
+    - It consists of 1's and 0's
+    - It doesn't have two consequent 1's
+    """
+    return re.fullmatch(r"^1(0|((?<!1)1))*$", fib_string)
+
+
 def fibonacci_generator():
     """Yield the next Fibonacci number."""
     a, b = 1, 1
@@ -8,8 +22,10 @@ def fibonacci_generator():
 
 def fibonacci_to_decimal(fib_string: str):
     """Convert a Fibonacci number to decimal."""
-    fibonacci = fibonacci_generator()
+    if not validate_input(fib_string):
+        raise ValueError("Provided value is an incorrent Fibonacci number.")
 
+    fibonacci = fibonacci_generator()
     next(fibonacci)  # Skip the first Fibonacci number
 
     result = 0
