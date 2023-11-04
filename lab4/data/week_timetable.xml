@@ -1,0 +1,504 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<root>
+    <code>0</code>
+    <data>
+        <day_number>1</day_number>
+        <week_number>11</week_number>
+        <date>2023-11-06</date>
+        <note>None</note>
+        <type>None</type>
+        <lessons>
+            <pair_id>6827456333</pair_id>
+            <subject>Иностранный язык</subject>
+            <subject_id>25373</subject_id>
+            <note>None</note>
+            <type>Практические занятия</type>
+            <time_start>08:20</time_start>
+            <time_end>09:50</time_end>
+            <teacher_id>348832</teacher_id>
+            <teacher_name>Малинка Алена Владимировна</teacher_name>
+            <room>3414</room>
+            <building>ул.Ломоносова, д.9, лит. Е</building>
+            <format>Очно - дистанционный </format>
+            <work_type>Практические занятия</work_type>
+            <work_type_id>3</work_type_id>
+            <group>АЯ-C1/4</group>
+            <flow_type_id>2</flow_type_id>
+            <flow_id>28423</flow_id>
+            <zoom_url>None</zoom_url>
+            <zoom_password>None</zoom_password>
+            <zoom_info>None</zoom_info>
+            <bld_id>35</bld_id>
+            <format_id>2</format_id>
+            <main_bld_id>273</main_bld_id>
+        </lessons>
+        <lessons>
+            <pair_id>1532498</pair_id>
+            <subject>Иностранный язык</subject>
+            <subject_id>25373</subject_id>
+            <note>None</note>
+            <type>Практические занятия</type>
+            <time_start>10:00</time_start>
+            <time_end>11:30</time_end>
+            <teacher_id>348832</teacher_id>
+            <teacher_name>Малинка Алена Владимировна</teacher_name>
+            <room>3414</room>
+            <building>ул.Ломоносова, д.9, лит. Е</building>
+            <format>Очно - дистанционный </format>
+            <work_type>Практические занятия</work_type>
+            <work_type_id>3</work_type_id>
+            <group>АЯ-C1/4</group>
+            <flow_type_id>2</flow_type_id>
+            <flow_id>28423</flow_id>
+            <zoom_url>None</zoom_url>
+            <zoom_password>None</zoom_password>
+            <zoom_info>None</zoom_info>
+            <bld_id>35</bld_id>
+            <format_id>2</format_id>
+            <main_bld_id>273</main_bld_id>
+        </lessons>
+        <lessons>
+            <pair_id>2597237287</pair_id>
+            <subject>Программирование</subject>
+            <subject_id>26245</subject_id>
+            <note>None</note>
+            <type>Лабораторные занятия</type>
+            <time_start>13:30</time_start>
+            <time_end>15:00</time_end>
+            <teacher_id>160739</teacher_id>
+            <teacher_name>Письмак Алексей Евгеньевич</teacher_name>
+            <room>2117</room>
+            <building>Кронверкский пр., д.49, лит.А</building>
+            <format>Очно - дистанционный </format>
+            <work_type>Лабораторные занятия</work_type>
+            <work_type_id>2</work_type_id>
+            <group>Прогр. 2.7</group>
+            <flow_type_id>2</flow_type_id>
+            <flow_id>35204</flow_id>
+            <zoom_url>None</zoom_url>
+            <zoom_password>None</zoom_password>
+            <zoom_info>None</zoom_info>
+            <bld_id>13</bld_id>
+            <format_id>2</format_id>
+            <main_bld_id>13</main_bld_id>
+        </lessons>
+        <lessons>
+            <pair_id>2597237706</pair_id>
+            <subject>Программирование</subject>
+            <subject_id>26245</subject_id>
+            <note>None</note>
+            <type>Лабораторные занятия</type>
+            <time_start>15:20</time_start>
+            <time_end>16:50</time_end>
+            <teacher_id>160739</teacher_id>
+            <teacher_name>Письмак Алексей Евгеньевич</teacher_name>
+            <room>2117</room>
+            <building>Кронверкский пр., д.49, лит.А</building>
+            <format>Очно - дистанционный </format>
+            <work_type>Лабораторные занятия</work_type>
+            <work_type_id>2</work_type_id>
+            <group>Прогр. 2.7</group>
+            <flow_type_id>2</flow_type_id>
+            <flow_id>35204</flow_id>
+            <zoom_url>None</zoom_url>
+            <zoom_password>None</zoom_password>
+            <zoom_info>None</zoom_info>
+            <bld_id>13</bld_id>
+            <format_id>2</format_id>
+            <main_bld_id>13</main_bld_id>
+        </lessons>
+    </data>
+    <data>
+        <day_number>2</day_number>
+        <week_number>11</week_number>
+        <date>2023-11-07</date>
+        <note>None</note>
+        <type>None</type>
+        <lessons>
+            <pair_id>1942497154</pair_id>
+            <subject>Математический анализ</subject>
+            <subject_id>25594</subject_id>
+            <note>None</note>
+            <type>Лекции</type>
+            <time_start>08:20</time_start>
+            <time_end>09:50</time_end>
+            <teacher_id>138626</teacher_id>
+            <teacher_name>Правдин Константин Владимирович</teacher_name>
+            <room>Orange Classroom (1229)</room>
+            <building>Кронверкский пр., д.49, лит.А</building>
+            <format>Очно - дистанционный </format>
+            <work_type>Лекции</work_type>
+            <work_type_id>1</work_type_id>
+            <group>МАТ АН ПИиКТ 13</group>
+            <flow_type_id>2</flow_type_id>
+            <flow_id>34741</flow_id>
+            <zoom_url>https://itmo.zoom.us/j/85810046373</zoom_url>
+            <zoom_password>None</zoom_password>
+            <zoom_info>None</zoom_info>
+            <bld_id>13</bld_id>
+            <format_id>2</format_id>
+            <main_bld_id>13</main_bld_id>
+        </lessons>
+        <lessons>
+            <pair_id>1942497937</pair_id>
+            <subject>Математический анализ</subject>
+            <subject_id>25594</subject_id>
+            <note>.</note>
+            <type>Практические занятия</type>
+            <time_start>10:00</time_start>
+            <time_end>11:30</time_end>
+            <teacher_id>345345</teacher_id>
+            <teacher_name>Блейхер Оксана Владимировна</teacher_name>
+            <room>2430</room>
+            <building>Кронверкский пр., д.49, лит.А</building>
+            <format>Очно - дистанционный </format>
+            <work_type>Практические занятия</work_type>
+            <work_type_id>3</work_type_id>
+            <group>МАТ АН ПИиКТ 13.3</group>
+            <flow_type_id>2</flow_type_id>
+            <flow_id>34750</flow_id>
+            <zoom_url>None</zoom_url>
+            <zoom_password>None</zoom_password>
+            <zoom_info>None</zoom_info>
+            <bld_id>13</bld_id>
+            <format_id>2</format_id>
+            <main_bld_id>13</main_bld_id>
+        </lessons>
+        <lessons>
+            <pair_id>2751306778</pair_id>
+            <subject>Основы дискретной математики (базовый уровень)</subject>
+            <subject_id>61029</subject_id>
+            <note>None</note>
+            <type>Лекции</type>
+            <time_start>11:40</time_start>
+            <time_end>13:10</time_end>
+            <teacher_id>100054</teacher_id>
+            <teacher_name>Поляков Владимир Иванович</teacher_name>
+            <room>2337</room>
+            <building>Кронверкский пр., д.49, лит.А</building>
+            <format>Очно - дистанционный </format>
+            <work_type>Лекции</work_type>
+            <work_type_id>1</work_type_id>
+            <group>ДИСКР МАТ 2</group>
+            <flow_type_id>2</flow_type_id>
+            <flow_id>35733</flow_id>
+            <zoom_url>None</zoom_url>
+            <zoom_password>None</zoom_password>
+            <zoom_info>None</zoom_info>
+            <bld_id>13</bld_id>
+            <format_id>2</format_id>
+            <main_bld_id>13</main_bld_id>
+        </lessons>
+        <lessons>
+            <pair_id>2751307666</pair_id>
+            <subject>Основы дискретной математики (базовый уровень)</subject>
+            <subject_id>61029</subject_id>
+            <note>None</note>
+            <type>Практические занятия</type>
+            <time_start>13:30</time_start>
+            <time_end>15:00</time_end>
+            <teacher_id>100054</teacher_id>
+            <teacher_name>Поляков Владимир Иванович</teacher_name>
+            <room>2337</room>
+            <building>Кронверкский пр., д.49, лит.А</building>
+            <format>Очно - дистанционный </format>
+            <work_type>Практические занятия</work_type>
+            <work_type_id>3</work_type_id>
+            <group>ДИСКР МАТ 2.1</group>
+            <flow_type_id>2</flow_type_id>
+            <flow_id>35735</flow_id>
+            <zoom_url>None</zoom_url>
+            <zoom_password>None</zoom_password>
+            <zoom_info>None</zoom_info>
+            <bld_id>13</bld_id>
+            <format_id>2</format_id>
+            <main_bld_id>13</main_bld_id>
+        </lessons>
+    </data>
+    <data>
+        <day_number>3</day_number>
+        <week_number>11</week_number>
+        <date>2023-11-08</date>
+        <note>None</note>
+        <type>None</type>
+        <lessons>
+            <pair_id>2587000322</pair_id>
+            <subject>Информатика</subject>
+            <subject_id>25416</subject_id>
+            <note> Актовый зал</note>
+            <type>Лекции</type>
+            <time_start>08:20</time_start>
+            <time_end>09:50</time_end>
+            <teacher_id>125598</teacher_id>
+            <teacher_name>Балакшин Павел Валерьевич</teacher_name>
+            <room>Актовый зал (1216/0 (усл))</room>
+            <building>ул.Ломоносова, д.9, лит. М</building>
+            <format>Очно - дистанционный </format>
+            <work_type>Лекции</work_type>
+            <work_type_id>1</work_type_id>
+            <group>ИНФОРМ 3</group>
+            <flow_type_id>2</flow_type_id>
+            <flow_id>34065</flow_id>
+            <zoom_url>None</zoom_url>
+            <zoom_password>None</zoom_password>
+            <zoom_info>None</zoom_info>
+            <bld_id>37</bld_id>
+            <format_id>2</format_id>
+            <main_bld_id>273</main_bld_id>
+        </lessons>
+        <lessons>
+            <pair_id>2481226695</pair_id>
+            <subject>Основы профессиональной деятельности</subject>
+            <subject_id>26075</subject_id>
+            <note> Актовый зал</note>
+            <type>Лекции</type>
+            <time_start>10:00</time_start>
+            <time_end>11:30</time_end>
+            <teacher_id>105395</teacher_id>
+            <teacher_name>Клименков Сергей Викторович</teacher_name>
+            <room>Актовый зал (1216/0 (усл))</room>
+            <building>ул.Ломоносова, д.9, лит. М</building>
+            <format>Очно - дистанционный </format>
+            <work_type>Лекции</work_type>
+            <work_type_id>1</work_type_id>
+            <group>ОснПрофДеят 1</group>
+            <flow_type_id>2</flow_type_id>
+            <flow_id>33732</flow_id>
+            <zoom_url>None</zoom_url>
+            <zoom_password>None</zoom_password>
+            <zoom_info>None</zoom_info>
+            <bld_id>37</bld_id>
+            <format_id>2</format_id>
+            <main_bld_id>273</main_bld_id>
+        </lessons>
+    </data>
+    <data>
+        <day_number>4</day_number>
+        <week_number>11</week_number>
+        <date>2023-11-09</date>
+        <note>None</note>
+        <type>None</type>
+        <lessons>
+            <pair_id>1536136</pair_id>
+            <subject>Россия в истории современных международных отношений</subject>
+            <subject_id>31315</subject_id>
+            <note>None</note>
+            <type>Практические занятия</type>
+            <time_start>10:00</time_start>
+            <time_end>11:30</time_end>
+            <teacher_id>416689</teacher_id>
+            <teacher_name>Павловский Алексей Федорович</teacher_name>
+            <room>2426</room>
+            <building>Кронверкский пр., д.49, лит.А</building>
+            <format>Очно - дистанционный </format>
+            <work_type>Практические занятия</work_type>
+            <work_type_id>3</work_type_id>
+            <group>ИРС 2.4</group>
+            <flow_type_id>2</flow_type_id>
+            <flow_id>28105</flow_id>
+            <zoom_url>None</zoom_url>
+            <zoom_password>None</zoom_password>
+            <zoom_info>None</zoom_info>
+            <bld_id>13</bld_id>
+            <format_id>2</format_id>
+            <main_bld_id>13</main_bld_id>
+        </lessons>
+        <lessons>
+            <pair_id>1536524</pair_id>
+            <subject>Россия в истории современных международных отношений</subject>
+            <subject_id>31315</subject_id>
+            <note>None</note>
+            <type>Лекции</type>
+            <time_start>13:30</time_start>
+            <time_end>15:00</time_end>
+            <teacher_id>292065</teacher_id>
+            <teacher_name>Богомазов Николай Иванович</teacher_name>
+            <room>Lemon Classroom (1419)</room>
+            <building>Кронверкский пр., д.49, лит.А</building>
+            <format>Очно - дистанционный </format>
+            <work_type>Лекции</work_type>
+            <work_type_id>1</work_type_id>
+            <group>ИРС 2</group>
+            <flow_type_id>2</flow_type_id>
+            <flow_id>28101</flow_id>
+            <zoom_url>None</zoom_url>
+            <zoom_password>None</zoom_password>
+            <zoom_info>None</zoom_info>
+            <bld_id>13</bld_id>
+            <format_id>2</format_id>
+            <main_bld_id>13</main_bld_id>
+        </lessons>
+    </data>
+    <data>
+        <day_number>5</day_number>
+        <week_number>11</week_number>
+        <date>2023-11-10</date>
+        <note>None</note>
+        <type>None</type>
+        <lessons>
+            <pair_id>1942505817</pair_id>
+            <subject>Линейная алгебра</subject>
+            <subject_id>25574</subject_id>
+            <note>None</note>
+            <type>Практические занятия</type>
+            <time_start>11:40</time_start>
+            <time_end>13:10</time_end>
+            <teacher_id>100628</teacher_id>
+            <teacher_name>Попов Игорь Юрьевич</teacher_name>
+            <room>2412</room>
+            <building>Кронверкский пр., д.49, лит.А</building>
+            <format>Очно - дистанционный </format>
+            <work_type>Практические занятия</work_type>
+            <work_type_id>3</work_type_id>
+            <group>ЛИН АЛГ ПИиКТ 11.1</group>
+            <flow_type_id>2</flow_type_id>
+            <flow_id>34804</flow_id>
+            <zoom_url>None</zoom_url>
+            <zoom_password>None</zoom_password>
+            <zoom_info>None</zoom_info>
+            <bld_id>13</bld_id>
+            <format_id>2</format_id>
+            <main_bld_id>13</main_bld_id>
+        </lessons>
+        <lessons>
+            <pair_id>1942506234</pair_id>
+            <subject>Линейная алгебра</subject>
+            <subject_id>25574</subject_id>
+            <note>None</note>
+            <type>Лекции</type>
+            <time_start>13:30</time_start>
+            <time_end>15:00</time_end>
+            <teacher_id>100628</teacher_id>
+            <teacher_name>Попов Игорь Юрьевич</teacher_name>
+            <room>1404</room>
+            <building>Кронверкский пр., д.49, лит.А</building>
+            <format>Очно - дистанционный </format>
+            <work_type>Лекции</work_type>
+            <work_type_id>1</work_type_id>
+            <group>ЛИН АЛГ ПИиКТ 11</group>
+            <flow_type_id>2</flow_type_id>
+            <flow_id>34792</flow_id>
+            <zoom_url>None</zoom_url>
+            <zoom_password>None</zoom_password>
+            <zoom_info>None</zoom_info>
+            <bld_id>13</bld_id>
+            <format_id>2</format_id>
+            <main_bld_id>13</main_bld_id>
+        </lessons>
+    </data>
+    <data>
+        <day_number>6</day_number>
+        <week_number>11</week_number>
+        <date>2023-11-11</date>
+        <note>None</note>
+        <type>None</type>
+        <lessons>
+            <pair_id>2481233540</pair_id>
+            <subject>Основы профессиональной деятельности</subject>
+            <subject_id>26075</subject_id>
+            <note>None</note>
+            <type>Лабораторные занятия</type>
+            <time_start>10:00</time_start>
+            <time_end>11:30</time_end>
+            <teacher_id>243871</teacher_id>
+            <teacher_name>Саржевский Иван Анатольевич</teacher_name>
+            <room>1327</room>
+            <building>Кронверкский пр., д.49, лит.А</building>
+            <format>Очно - дистанционный </format>
+            <work_type>Лабораторные занятия</work_type>
+            <work_type_id>2</work_type_id>
+            <group>ОснПрофДеят 1.9</group>
+            <flow_type_id>2</flow_type_id>
+            <flow_id>35155</flow_id>
+            <zoom_url>None</zoom_url>
+            <zoom_password>None</zoom_password>
+            <zoom_info>None</zoom_info>
+            <bld_id>13</bld_id>
+            <format_id>2</format_id>
+            <main_bld_id>13</main_bld_id>
+        </lessons>
+        <lessons>
+            <pair_id>2481233776</pair_id>
+            <subject>Основы профессиональной деятельности</subject>
+            <subject_id>26075</subject_id>
+            <note>None</note>
+            <type>Лабораторные занятия</type>
+            <time_start>11:40</time_start>
+            <time_end>13:10</time_end>
+            <teacher_id>243871</teacher_id>
+            <teacher_name>Саржевский Иван Анатольевич</teacher_name>
+            <room>1327</room>
+            <building>Кронверкский пр., д.49, лит.А</building>
+            <format>Очно - дистанционный </format>
+            <work_type>Лабораторные занятия</work_type>
+            <work_type_id>2</work_type_id>
+            <group>ОснПрофДеят 1.9</group>
+            <flow_type_id>2</flow_type_id>
+            <flow_id>35155</flow_id>
+            <zoom_url>None</zoom_url>
+            <zoom_password>None</zoom_password>
+            <zoom_info>None</zoom_info>
+            <bld_id>13</bld_id>
+            <format_id>2</format_id>
+            <main_bld_id>13</main_bld_id>
+        </lessons>
+        <lessons>
+            <pair_id>1942507655</pair_id>
+            <subject>Россия в истории современных международных отношений</subject>
+            <subject_id>31315</subject_id>
+            <note>консультация</note>
+            <type>Лекции</type>
+            <time_start>13:30</time_start>
+            <time_end>15:00</time_end>
+            <teacher_id>292065</teacher_id>
+            <teacher_name>Богомазов Николай Иванович</teacher_name>
+            <room>None</room>
+            <building>None</building>
+            <format>Дистанционный </format>
+            <work_type>Лекции</work_type>
+            <work_type_id>1</work_type_id>
+            <group>ИРС 2</group>
+            <flow_type_id>2</flow_type_id>
+            <flow_id>28101</flow_id>
+            <zoom_url>None</zoom_url>
+            <zoom_password>None</zoom_password>
+            <zoom_info>None</zoom_info>
+            <bld_id>None</bld_id>
+            <format_id>3</format_id>
+            <main_bld_id>None</main_bld_id>
+        </lessons>
+        <lessons>
+            <pair_id>3495284346</pair_id>
+            <subject>Россия в истории современных международных отношений</subject>
+            <subject_id>31315</subject_id>
+            <note>консультация</note>
+            <type>Практические занятия</type>
+            <time_start>15:20</time_start>
+            <time_end>16:50</time_end>
+            <teacher_id>416689</teacher_id>
+            <teacher_name>Павловский Алексей Федорович</teacher_name>
+            <room>None</room>
+            <building>None</building>
+            <format>Дистанционный </format>
+            <work_type>Практические занятия</work_type>
+            <work_type_id>3</work_type_id>
+            <group>ИРС 2.4</group>
+            <flow_type_id>2</flow_type_id>
+            <flow_id>28105</flow_id>
+            <zoom_url>None</zoom_url>
+            <zoom_password>None</zoom_password>
+            <zoom_info>None</zoom_info>
+            <bld_id>None</bld_id>
+            <format_id>3</format_id>
+            <main_bld_id>None</main_bld_id>
+        </lessons>
+    </data>
+    <data>
+        <day_number>0</day_number>
+        <week_number>11</week_number>
+        <date>2023-11-12</date>
+        <note>None</note>
+        <type>None</type>
+    </data>
+    <message>None</message>
+</root>

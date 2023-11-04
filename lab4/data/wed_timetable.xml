@@ -1,0 +1,60 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<root>
+    <day_number>3</day_number>
+    <week_number>10</week_number>
+    <date>2023-11-01</date>
+    <lessons>
+        <pair_id>2597227597</pair_id>
+        <subject>Программирование</subject>
+        <subject_id>26245</subject_id>
+        <type>Лекции</type>
+        <time_start>10:00</time_start>
+        <time_end>11:30</time_end>
+        <teacher_id>160739</teacher_id>
+        <teacher_name>Письмак Алексей Евгеньевич</teacher_name>
+        <room>Актовый зал (1216/0 (усл))</room>
+        <building>ул.Ломоносова, д.9, лит. М</building>
+        <format>Очно - дистанционный </format>
+        <work_type>Лекции</work_type>
+        <work_type_id>1</work_type_id>
+        <group>Прогр. 2</group>
+        <flow_type_id>2</flow_type_id>
+        <flow_id>34064</flow_id>
+    </lessons>
+    <lessons>
+        <pair_id>2586987085</pair_id>
+        <subject>Информатика</subject>
+        <subject_id>25416</subject_id>
+        <type>Лабораторные занятия</type>
+        <time_start>13:30</time_start>
+        <time_end>15:00</time_end>
+        <teacher_id>165275</teacher_id>
+        <teacher_name>Малышева Татьяна Алексеевна</teacher_name>
+        <room>2117</room>
+        <building>Кронверкский пр., д.49, лит.А</building>
+        <format>Очно - дистанционный </format>
+        <work_type>Лабораторные занятия</work_type>
+        <work_type_id>2</work_type_id>
+        <group>ИНФОРМ 3.9</group>
+        <flow_type_id>2</flow_type_id>
+        <flow_id>35185</flow_id>
+    </lessons>
+    <lessons>
+        <pair_id>2586987427</pair_id>
+        <subject>Информатика</subject>
+        <subject_id>25416</subject_id>
+        <type>Лабораторные занятия</type>
+        <time_start>15:20</time_start>
+        <time_end>16:50</time_end>
+        <teacher_id>165275</teacher_id>
+        <teacher_name>Малышева Татьяна Алексеевна</teacher_name>
+        <room>2117</room>
+        <building>Кронверкский пр., д.49, лит.А</building>
+        <format>Очно - дистанционный </format>
+        <work_type>Лабораторные занятия</work_type>
+        <work_type_id>2</work_type_id>
+        <group>ИНФОРМ 3.9</group>
+        <flow_type_id>2</flow_type_id>
+        <flow_id>35185</flow_id>
+    </lessons>
+</root>
