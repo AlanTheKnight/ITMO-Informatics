@@ -1,4 +1,4 @@
-from .utils import XMLUtils
+from .utils import XMLUtils, read_file, write_to_file
 import re
 
 
@@ -6,10 +6,7 @@ WHITESPACE = r"\s*"
 STRING = r"(?:\"[^\"]*\")"
 BOOLEAN = r"(?:true|false)"
 NULL = r"(?:null)"
-NUMBER_FRACTIONAL = r"(?:\.[0-9]+)?"
-NUMBER_EXPONENTIAL = r"(?:[eE](?:\+|-)?[0-9]+)?"
-NUMBER_MAIN = r"(?:-?(?:0|(?:[1-9]\d*)))"
-NUMBER = r"(?:" + NUMBER_MAIN + NUMBER_FRACTIONAL + NUMBER_EXPONENTIAL + ")"
+NUMBER = r"-?(?:0|(?:[1-9]\d*))(?:\.[0-9]+)?(?:[eE](?:\+|-)?[0-9]+)?"
 SIMPLE_VALUE = WHITESPACE + f"({STRING}|{NUMBER}|{BOOLEAN}|{NULL})" + WHITESPACE
 OBJECT_PAIR = f"(?:\s*({STRING})\s*:{SIMPLE_VALUE})"
 
@@ -38,3 +35,9 @@ def naive_regex_convert(json_str: str):
             xml.append(XMLUtils.tag(key, value))
 
     return "\n".join(xml)
+
+
+if __name__ == "__main__":
+    file = "data/wed_timetable.json"
+    converted = naive_regex_convert(read_file(file))
+    write_to_file("data/naive_converted.xml", converted)

@@ -14,7 +14,7 @@ def write_to_file(filename: str, content: str) -> None:
 
 
 class XMLUtils:
-    PROLOG = '<?xml version="1.1" encoding="UTF-8"?>'
+    PROLOG = '<?xml version="1.0" encoding="UTF-8"?>'
 
     @classmethod
     def opening_tag(cls, tag_name: str, attrs: Union[dict, None] = None):

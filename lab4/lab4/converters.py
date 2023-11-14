@@ -1,5 +1,6 @@
 from typing import Union, Any
-from .utils import XMLUtils
+from .utils import XMLUtils, write_to_file
+from .json_parser import JSONParser
 
 
 class AbstractConverter:
@@ -103,3 +104,9 @@ class JSON2CSVConverter(AbstractConverter):
             return self.result
         else:
             raise Exception("CSV converter used with neither a dict nor a list of dicts.")
+
+
+if __name__ == "__main__":
+    file = "data/week_timetable.json"
+    converted = JSON2XMLConverter().convert(JSONParser().parse_file(file))
+    write_to_file("data/week_timetable.xml", converted)

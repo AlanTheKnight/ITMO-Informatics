@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<all>
+	<day_number type="int">3</day_number>
+	<week_number type="int">10</week_number>
+	<date type="str">2023-11-01</date>
+	<lessons type="list">
+		<item type="dict">
+			<pair_id type="int">2597227597</pair_id>
+			<subject type="str">Программирование</subject>
+			<subject_id type="int">26245</subject_id>
+			<type type="str">Лекции</type>
+			<time_start type="str">10:00</time_start>
+			<time_end type="str">11:30</time_end>
+			<teacher_id type="int">160739</teacher_id>
+			<teacher_name type="str">Письмак Алексей Евгеньевич</teacher_name>
+			<room type="str">Актовый зал (1216/0 (усл))</room>
+			<building type="str">ул.Ломоносова, д.9, лит. М</building>
+			<format type="str">Очно - дистанционный </format>
+			<work_type type="str">Лекции</work_type>
+			<work_type_id type="int">1</work_type_id>
+			<group type="str">Прогр. 2</group>
+			<flow_type_id type="int">2</flow_type_id>
+			<flow_id type="int">34064</flow_id>
+		</item>
+		<item type="dict">
+			<pair_id type="int">2586987085</pair_id>
+			<subject type="str">Информатика</subject>
+			<subject_id type="int">25416</subject_id>
+			<type type="str">Лабораторные занятия</type>
+			<time_start type="str">13:30</time_start>
+			<time_end type="str">15:00</time_end>
+			<teacher_id type="int">165275</teacher_id>
+			<teacher_name type="str">Малышева Татьяна Алексеевна</teacher_name>
+			<room type="str">2117</room>
+			<building type="str">Кронверкский пр., д.49, лит.А</building>
+			<format type="str">Очно - дистанционный </format>
+			<work_type type="str">Лабораторные занятия</work_type>
+			<work_type_id type="int">2</work_type_id>
+			<group type="str">ИНФОРМ 3.9</group>
+			<flow_type_id type="int">2</flow_type_id>
+			<flow_id type="int">35185</flow_id>
+		</item>
+		<item type="dict">
+			<pair_id type="int">2586987427</pair_id>
+			<subject type="str">Информатика</subject>
+			<subject_id type="int">25416</subject_id>
+			<type type="str">Лабораторные занятия</type>
+			<time_start type="str">15:20</time_start>
+			<time_end type="str">16:50</time_end>
+			<teacher_id type="int">165275</teacher_id>
+			<teacher_name type="str">Малышева Татьяна Алексеевна</teacher_name>
+			<room type="str">2117</room>
+			<building type="str">Кронверкский пр., д.49, лит.А</building>
+			<format type="str">Очно - дистанционный </format>
+			<work_type type="str">Лабораторные занятия</work_type>
+			<work_type_id type="int">2</work_type_id>
+			<group type="str">ИНФОРМ 3.9</group>
+			<flow_type_id type="int">2</flow_type_id>
+			<flow_id type="int">35185</flow_id>
+		</item>
+	</lessons>
+</all>

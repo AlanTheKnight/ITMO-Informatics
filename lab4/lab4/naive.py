@@ -1,4 +1,4 @@
-from .utils import XMLUtils
+from lab4.utils import read_file, write_to_file, XMLUtils
 
 
 def naive_convert(json_str: str):
@@ -22,3 +22,9 @@ def naive_convert(json_str: str):
             key, val = map(lambda x: x.strip(), line.removesuffix(",").replace('"', "").split(": "))
             xml.append(XMLUtils.tag(key, val))
     return "\n".join(xml)
+
+
+if __name__ == "__main__":
+    file = "data/wed_timetable.json"
+    converted = naive_convert(read_file(file))
+    write_to_file("data/naive_converted.xml", converted)
